@@ -1,0 +1,25 @@
+{
+  "name": "lab03",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [
+    "labsheet",
+    "03",
+    "node.js"
+  ],
+  "homepage": "https://github.com/JameelaJabir/Lab03#readme",
+  "bugs": {
+    "url": "https://github.com/JameelaJabir/Lab03/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JameelaJabir/Lab03.git"
+  },
+  "license": "ISC",
+  "author": "Jameela Jabir",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
